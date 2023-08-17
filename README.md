@@ -5,3 +5,10 @@
 <h1 align="center">
 Hey 👋  I Am Lokesh Pundlik Banarse!<br>
 </h1>
+
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile)](https://git.io/typing-svg)
+
+ </p>
+ <hr/>
