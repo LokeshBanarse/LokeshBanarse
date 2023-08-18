@@ -6,8 +6,6 @@
 Hey 👋  I Am Lokesh Pundlik Banarse!<br>
 </h1>
 
-<center>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
- </center>
- <hr/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Welcome+To+My+GitHub+Profile;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
