@@ -8,7 +8,7 @@ Hey 👋  I Am Lokesh Pundlik Banarse!<br>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 
  </p>
  <hr/>
