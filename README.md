@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)"  />
-</div>
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">
 Hey 👋  I Am Lokesh Pundlik Banarse!<br>
 </h1>
